@@ -1,0 +1,4 @@
+
+n line 3 - I thought it was a doc line
+
+5-printf.c:7: warning: no description found for function main
