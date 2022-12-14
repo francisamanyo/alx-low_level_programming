@@ -1,18 +1,16 @@
 #include "main.h"
 
 /**
- * Description: print alphabet_x10 - print alpha 10 times
+* add - Adds two integers
+* @num1: The first integer to be added
+* @num2: The second integer to be added
+*
+* Return: The result of the addition
 */
-void print_alphabet_x10(void)
+int add(int num1, int num2)
+
 {
 
-	int ten;
-	char la;
+return (num1 + num2);
 
-	for (ten = 0; ten <= 9; ten++)
-	{
-		for (la = 'a'; la <= 'z'; la++)
-			_putchar(la);
-		_putchar('\n');
-	}
-		
+}
