@@ -1,15 +1,14 @@
 #include "main.h"
 
 /**
- * print _alphabet - prints the alpha in lowercase
- */
-* Description: print all function prototype used in this project
+* print _alphabet - prints the alpha in lowercase
+*/
 void print_alphabet(void)
 {
-	char la;
+	char letter;
 
-	for (la = 'a'; la <= 'z'; la++)
-		_putchar(la);
+	for (letter = 'a'; letter <= 'z'; letter++)
+		_putchar(letter);
 
 	_putchar('\n');
 }
