@@ -4,7 +4,7 @@
 * print_triangle - entry point
 * owned by Francis
 *@size: size of the triangle
-*Return: void
+* Return: void
 */
 
 
