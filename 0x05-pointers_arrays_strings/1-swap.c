@@ -1,6 +1,6 @@
 #include "main.h"
 /**
-* wap_int - swaps the value of int a and int b
+* swap_int - swaps the value of int a and int b
 * Owned by Francis Amanyo
 * @a: first int
 * @b: second int
