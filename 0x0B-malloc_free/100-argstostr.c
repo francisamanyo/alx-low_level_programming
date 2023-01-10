@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 /**
- * *argstostr - main entry
+ **argstostr - main entry
  * @ac: int input
  * @av: double pointer array
  *
